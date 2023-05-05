@@ -1,0 +1,81 @@
+ header  {
+    background-color: gray;
+    padding-top: -30px;
+    border: 4px solid black;
+    margin-bottom: 10px;
+ }   
+    
+.topicoh3 {
+    margin-bottom: -5px;
+
+}
+
+.materia2 {
+    margin-bottom:  -45px;
+}
+
+.subtitulo {
+    display: flex;
+    flex-direction: column;
+    padding-left: 80px;
+    margin-bottom: -20px;
+    align-items: left;
+}
+
+.topicos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    row-gap: 10px;
+    column-gap: 30px;
+    padding-right: 900px;
+
+}
+
+
+.navegador,.rodape {
+    background-color: rgb(168, 168, 226);
+    display: flex;
+    justify-content:left;
+    list-style-type:none;
+    margin-left: 15px;
+    
+}
+
+p, ul, li{
+    list-style-type: none;
+}
+
+
+footer {
+    background-color: gray;
+    border: 4px solid black;
+}
+
+html {
+    background-color: rgb(216, 231, 188);
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+    text-align: left;
+
+}
+
+.imagem, img {
+    border: 3px solid black;
+   
+    
+}
+
+nav ul li{
+    margin-left: 45px;
+
+}
+
+#shoppingPaco{
+    padding-left: 270px;
+}
